@@ -21,6 +21,7 @@
                     <th>Title</th>
                     <th>Price</th>
                     <th>Discount Price</th>
+                    <th>Settings</th>
                 </tr>
             </thead>
             <tbody>
@@ -32,6 +33,11 @@
                         <td>@product.Title</td>
                         <td>@product.Price</td>
                         <td>@product.DiscountPrice</td>
+                        <td>
+                            <a asp-action="Detail" asp-route-id="@product.Id" class="btn btn-success">Detail</a>
+                            <a asp-action="Update" asp-route-id="@product.Id" class="btn btn-warning">Update</a>
+                            <a asp-action="Delete" asp-route-id="@product.Id" class="btn btn-danger">Delete</a>
+                        </td>
                     </tr>
                 }
             </tbody>

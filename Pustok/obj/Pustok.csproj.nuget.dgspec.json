@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Program Files (x86)\\Рабочий стол\\P224_ASP_31-03-2022_ViewComponent_AreaIntro\\Pustok\\Pustok\\Pustok.csproj": {}
+    "C:\\Program Files (x86)\\Рабочий стол\\Pustok\\Pustok\\Pustok.csproj": {}
   },
   "projects": {
-    "C:\\Program Files (x86)\\Рабочий стол\\P224_ASP_31-03-2022_ViewComponent_AreaIntro\\Pustok\\Pustok\\Pustok.csproj": {
+    "C:\\Program Files (x86)\\Рабочий стол\\Pustok\\Pustok\\Pustok.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Program Files (x86)\\Рабочий стол\\P224_ASP_31-03-2022_ViewComponent_AreaIntro\\Pustok\\Pustok\\Pustok.csproj",
+        "projectUniqueName": "C:\\Program Files (x86)\\Рабочий стол\\Pustok\\Pustok\\Pustok.csproj",
         "projectName": "Pustok",
-        "projectPath": "C:\\Program Files (x86)\\Рабочий стол\\P224_ASP_31-03-2022_ViewComponent_AreaIntro\\Pustok\\Pustok\\Pustok.csproj",
+        "projectPath": "C:\\Program Files (x86)\\Рабочий стол\\Pustok\\Pustok\\Pustok.csproj",
         "packagesPath": "C:\\Users\\kerim\\.nuget\\packages\\",
-        "outputPath": "C:\\Program Files (x86)\\Рабочий стол\\P224_ASP_31-03-2022_ViewComponent_AreaIntro\\Pustok\\Pustok\\obj\\",
+        "outputPath": "C:\\Program Files (x86)\\Рабочий стол\\Pustok\\Pustok\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,24 @@
+﻿@model Product
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div class="row justify-content-center">
+    <div class="col-lg-6">
+        <div class="card" style="width: 18rem;">
+            <img class="card-img-top" src="~/image/products/@Model.MainImage" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">Title: @Model.Title</h5>
+                <h5 class="card-title">Price: @Model.Price</h5>
+                <h5 class="card-title">DiscountPrice: @Model.DiscountPrice</h5>
+                <h5 class="card-title">Author: @Model.Author.Name</h5>
+                <h5 class="card-title">Genre: @Model.Genre.Name</h5>
+            </div>
+        </div>
+        <div class="col-lg-6">
+            <a asp-action="Index" class="btn btn-primary">Go To List</a>
+            <a asp-action="DeleteProduct" asp-route-id="@Model.Id" class="btn btn-danger">Delete</a>
+        </div>
+    </div>
+</div>
+

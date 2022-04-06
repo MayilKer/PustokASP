@@ -28,6 +28,11 @@ namespace Pustok.Models
         public double Price { get; set; }
         [Column(TypeName = "decimal(18,2)")]
         public Nullable<double> DiscountPrice { get; set; }
+        public int Count { get; set; }
+        public bool IsDeleted { get; set; }
+        public Nullable<DateTime> CreatedAt { get; set; }
+        public Nullable<DateTime> DeletedAt { get; set; }
+        public Nullable<DateTime> UpdatedAt { get; set; }
         public bool IsFeature { get; set; }
         public bool IsArrival { get; set; }
         public bool IsMostView { get; set; }

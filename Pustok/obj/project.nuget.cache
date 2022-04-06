@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xUKROuGrUUHyRit3DHmw7AobGeP4RDeSar8DIqGib4pOdbM7a2WCc/KlG+XqX3yJr+ieg4b7JKRpp61/fY0ZlQ==",
+  "dgSpecHash": "vjD6bG3sGMp3UNKIdZs2J6Ct9eTQpojT4St9cxTQBHL0gjzUtR+6Psco07nGClgcFCAeu3o+Q4YOyqCxtU64Uw==",
   "success": true,
-  "projectFilePath": "C:\\Program Files (x86)\\Рабочий стол\\P224_ASP_31-03-2022_ViewComponent_AreaIntro\\Pustok\\Pustok\\Pustok.csproj",
+  "projectFilePath": "C:\\Program Files (x86)\\Рабочий стол\\Pustok\\Pustok\\Pustok.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kerim\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\kerim\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
